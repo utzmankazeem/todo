@@ -14,6 +14,11 @@ You can go ahead and create a new list entirely, which is done by adding a new p
 
 you can delete a todo by ticking the checkbox and it wil strike through and update the todo list.
 
+# npm install
+run npm install to install all dependencies
+
+# npm start
+npm start to run app
 
 #Nodejs 
 #Ejs 
