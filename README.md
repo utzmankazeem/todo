@@ -1,14 +1,22 @@
-#newsletterApp
+# newsletter App
 
-#A Todo Application 
+# A Todo Application 
 
-#A todo list application designed to generate an automatic service that can easily oversea their day to day activities. 
+A todo list application designed to generate an automatic service that can easily oversea their day to day activities. 
 
-#You can add their todo to an existing list of auto-generated todo.
+# Usage
 
-#You can go ahead and create a new list entirely, which is done by adding a new parameter to the address with a "/nameOfTodo" you can then add your list of todo's.
+You can add their todo to an existing list of auto-generated todo.
 
-#you can delete a todo by ticking the checkbox and it wil strike through and update the todo list.
+# Creating List On A fly
+
+You can go ahead and create a new list entirely, which is done by adding a new parameter to the address with a "/NameOfYourList" you can then add your list of todo's.
+
+you can delete a todo by ticking the checkbox and it wil strike through and update the todo list.
 
 
-#Nodejs #Ejs #Javascript #Bootstrap #CSS
+#Nodejs 
+#Ejs 
+#Javascript 
+#Bootstrap 
+#CSS
